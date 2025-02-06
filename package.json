@@ -1,0 +1,21 @@
+{
+  "name": "trial-and-error",
+  "version": "0.0.1",
+  "description": "all the trials i can afford to have, we must blow",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "get",
+    "post",
+    "delete",
+    "update"
+  ],
+  "author": "olucho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
