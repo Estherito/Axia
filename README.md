@@ -1,4 +1,4 @@
-# Exam Project
+# Exam Project (EXAM.JS)
 
 ## Description
 
